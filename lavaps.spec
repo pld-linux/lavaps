@@ -1,5 +1,5 @@
 Summary:	LavaPS - an interactive process-tracking program
-Summary(pl):	LavaPS - interaktywny program pokazuj±cy dzia³aj±ce procesy
+Summary(pl.UTF-8):   LavaPS - interaktywny program pokazujÄ…cy dziaÅ‚ajÄ…ce procesy
 Name:		lavaps
 Version:	2.7
 Release:	1
@@ -20,13 +20,13 @@ a graphical analog form. The idea is that you can run it in the
 background and get a rough idea of what's happening to your system
 without devoting much concentration to the task.
 
-%description -l pl
-LavaPS to interaktywny program pokazuj±cy dzia³aj±ce procesy podobnie
-do topa, ale z ca³kiem innym nastawiniem. Zamiast prezentowania du¿ej
-ilo¶ci konkretnych informacji w postaci cyfrowej, próbuje przedstawiæ
-pewne wa¿ne informacje w graficznej formie analogowej. Idea jest taka,
-¿e mo¿na go uruchomiæ w tle i mieæ pojêcie co dzieje siê w systemie
-bez po¶wiêcania zbytniej uwagi temu zadaniu.
+%description -l pl.UTF-8
+LavaPS to interaktywny program pokazujÄ…cy dziaÅ‚ajÄ…ce procesy podobnie
+do topa, ale z caÅ‚kiem innym nastawiniem. Zamiast prezentowania duÅ¼ej
+iloÅ›ci konkretnych informacji w postaci cyfrowej, prÃ³buje przedstawiÄ‡
+pewne waÅ¼ne informacje w graficznej formie analogowej. Idea jest taka,
+Å¼e moÅ¼na go uruchomiÄ‡ w tle i mieÄ‡ pojÄ™cie co dzieje siÄ™ w systemie
+bez poÅ›wiÄ™cania zbytniej uwagi temu zadaniu.
 
 %prep
 %setup -q

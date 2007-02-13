@@ -1,5 +1,5 @@
 Summary:	LavaPS - an interactive process-tracking program
-Summary(pl.UTF-8):   LavaPS - interaktywny program pokazujący działające procesy
+Summary(pl.UTF-8):	LavaPS - interaktywny program pokazujący działające procesy
 Name:		lavaps
 Version:	2.7
 Release:	1
